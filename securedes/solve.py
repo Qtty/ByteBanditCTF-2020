@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 from socket import *
 from Crypto.Util.number import inverse
 from Crypto.Util.number import GCD as gcd
